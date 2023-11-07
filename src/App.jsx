@@ -12,6 +12,7 @@ const App = () => (
 
       <div className={`bg-primary ${style.flexStart}`}>
           <div className={`${style.boxWidth}`}>
+            <Hero/>
           </div>
       </div>
 
